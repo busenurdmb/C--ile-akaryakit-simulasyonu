@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\obj\Debug\TestPetrol.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\obj\Debug\TestPetrol.Form1.resources
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\obj\Debug\TestPetrol.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\obj\Debug\TestPetrol.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\obj\Debug\TestPetrol.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\bin\Debug\TestPetrol.exe.config
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\bin\Debug\TestPetrol.exe
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\bin\Debug\TestPetrol.pdb
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\obj\Debug\TestPetrol.exe
+C:\Users\BUSE NUR\source\repos\TestPetrol\TestPetrol\obj\Debug\TestPetrol.pdb
